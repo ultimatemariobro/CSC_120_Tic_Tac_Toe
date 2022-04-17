@@ -1,2 +1,2 @@
-# CSC_120_remote
-remote repository attempt for CSC 120 class 
+# CSC_120_Tic_Tac_Toe
+remote repository attempt for CSC 120 class: Tic Tac Toe project 
